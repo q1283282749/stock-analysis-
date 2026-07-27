@@ -1,0 +1,4 @@
+streamlit==1.45.0
+pandas
+numpy
+akshare
